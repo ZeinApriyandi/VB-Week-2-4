@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi5-week2\ReviewAnchor\ReviewAnchor\bin\Debug\ReviewAnchor.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi5-week2\ReviewAnchor\ReviewAnchor\bin\Debug\ReviewAnchor.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi5-week2\ReviewAnchor\ReviewAnchor\bin\Debug\ReviewAnchor.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi5-week2\ReviewAnchor\ReviewAnchor\bin\Debug\ReviewAnchor.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi5-week2\ReviewAnchor\ReviewAnchor\obj\Debug\ReviewAnchor.review_anchor.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi5-week2\ReviewAnchor\ReviewAnchor\obj\Debug\ReviewAnchor.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi5-week2\ReviewAnchor\ReviewAnchor\obj\Debug\ReviewAnchor.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi5-week2\ReviewAnchor\ReviewAnchor\obj\Debug\ReviewAnchor.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi5-week2\ReviewAnchor\ReviewAnchor\obj\Debug\ReviewAnchor.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\VB19421284-week2\apriyandi5-week2\ReviewAnchor\ReviewAnchor\obj\Debug\ReviewAnchor.pdb
